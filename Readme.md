@@ -6,7 +6,8 @@ Code written by Hoplin
 - .java : Source Code File
 - .mdj : UML file - Require to Open with "[Star UML](https://staruml.io/)"
 ***
-
+- **과목 과제제출 특성상 한파일에 작성했어야 해서 하나의 코드 안에 다 작성했지만 분할해 코드작성해보시는걸 권장합니다**
+***
 ### 틀린 내용이 있을수도 있습니다. 이 자료에 의해 생기는 불이익에대한 책임은 개인한테있습니다.명심하십시오(과제 표절에 의한 F학점 등의 사유 포함)  
 
 - [📚 Training_1 - OOP Modelling](https://github.com/J-hoplin1/Design-Patterns/tree/main/%EC%8B%A4%EC%8A%B51) : 2022 / 03 / 14
