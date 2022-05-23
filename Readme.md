@@ -22,3 +22,4 @@ Code written by Hoplin
 - [📚 Training 8 - State Pattern](https://github.com/J-hoplin1/Design-Patterns/tree/main/%EC%8B%A4%EC%8A%B58) : 2022 / 05 / 09
 - [📚 Assignment 4 - State Pattern](https://github.com/J-hoplin1/Design-Patterns/tree/main/%EA%B3%BC%EC%A0%9C4) : 2022 / 05 / 09
 - [📚 Training 9 - Command Pattern](https://github.com/J-hoplin1/Design-Patterns/tree/main/%EC%8B%A4%EC%8A%B59) : 2022 / 05 / 16
+- [📚Assignment 5 - Command Pattern](https://github.com/J-hoplin1/Design-Patterns/tree/main/%EA%B3%BC%EC%A0%9C5) : 2022 / 05 / 16
