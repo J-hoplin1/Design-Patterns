@@ -17,9 +17,10 @@ Code written by Hoplin
 - [📚 Training 5 - Sequence Diagram](https://github.com/J-hoplin1/Design-Patterns/tree/main/%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B85) : 2022 / 04 / 11
 - [📚 Assignment 1 - Sequence Diagram](https://github.com/J-hoplin1/Design_Pattern/tree/main/%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A61) : 2022 / 04 / 11
 - [📚 Training 6 - Strategy Pattern](https://github.com/J-hoplin1/Design-Patterns/tree/main/%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B86) : 2022 / 04 / 18
+- [📚 Assignment 2 - Strategy Pattern](https://github.com/J-hoplin1/Design-Patterns/tree/main/%EA%B3%BC%EC%A0%9C2) : 2022 / 04 / 18
 - Training 7 - SingleTon Pattern : 이날 시험 끝난날이라 일탈한날 ㅎ(수업은 들음!)
 - [📚 Assignment 3 - SingleTon Pattern](https://github.com/J-hoplin1/Design-Patterns/tree/main/%EA%B3%BC%EC%A0%9C3) : 2022 / 05 / 02
 - [📚 Training 8 - State Pattern](https://github.com/J-hoplin1/Design-Patterns/tree/main/%EC%8B%A4%EC%8A%B58) : 2022 / 05 / 09
 - [📚 Assignment 4 - State Pattern](https://github.com/J-hoplin1/Design-Patterns/tree/main/%EA%B3%BC%EC%A0%9C4) : 2022 / 05 / 09
 - [📚 Training 9 - Command Pattern](https://github.com/J-hoplin1/Design-Patterns/tree/main/%EC%8B%A4%EC%8A%B59) : 2022 / 05 / 16
-- [📚Assignment 5 - Command Pattern](https://github.com/J-hoplin1/Design-Patterns/tree/main/%EA%B3%BC%EC%A0%9C5) : 2022 / 05 / 16
+- [📚 Assignment 5 - Command Pattern](https://github.com/J-hoplin1/Design-Patterns/tree/main/%EA%B3%BC%EC%A0%9C5) : 2022 / 05 / 16
