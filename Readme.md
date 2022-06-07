@@ -25,6 +25,7 @@ Code written by Hoplin
 - [📚 Assignment 4 - State Pattern](https://github.com/J-hoplin1/Design-Patterns/tree/main/%EA%B3%BC%EC%A0%9C4) : 2022 / 05 / 09
 - [📚 Training 9 - Command Pattern](https://github.com/J-hoplin1/Design-Patterns/tree/main/%EC%8B%A4%EC%8A%B59) : 2022 / 05 / 16
 - [📚 Assignment 5 - Command Pattern](https://github.com/J-hoplin1/Design-Patterns/tree/main/%EA%B3%BC%EC%A0%9C5) : 2022 / 05 / 16
-- [📚 Training10 - Observer Pattern](https://github.com/J-hoplin1/Design-Patterns/tree/main/%EC%8B%A4%EC%8A%B510) : 2022 / 05 / 23
+- [📚 Training 10 - Observer Pattern](https://github.com/J-hoplin1/Design-Patterns/tree/main/%EC%8B%A4%EC%8A%B510) : 2022 / 05 / 23
 - [📚 Assignment 6 - Observer Pattern](https://github.com/J-hoplin1/Design-Patterns/blob/main/%EA%B3%BC%EC%A0%9C6/assignment.java) : 2022 / 05 / 23
 - [📚 Assignment 7 - Decorator Pattern](https://github.com/J-hoplin1/Design-Patterns/blob/main/%EA%B3%BC%EC%A0%9C7/assignment1.java) : 2022 / 05 / 31
+- [📚 Training 12 - Template Method Pattern](https://github.com/J-hoplin1/Design-Patterns/tree/main/%EC%8B%A4%EC%8A%B512) : 2022 / 06 / 07
